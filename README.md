@@ -1,7 +1,9 @@
 # Twitter-Sentiment-Analysis-Tool
 Online Sentiment Analysis Tool using Natural Language Processing
 
+
 Perform the following instructions for running the project:
+
 
 STEP 1: Creating Twitter (X) developer's account for connecting with Twitter API
 1.	Create a twitter account if you do not already have one.
@@ -14,12 +16,14 @@ STEP 1: Creating Twitter (X) developer's account for connecting with Twitter API
 8.	First, click on Keys and tokens. Second, click on create to get access token and access token secret.
 Save your API key, API secret key, Access token, and Access token secret somewhere safe.
 
+
 STEP 2: Installations:
 1.	Install Python 3.7 (or the latest version), the set up file ‘python-3.7.2-amd64’ is provided in the folder for same.
 2.	After python is installed, install all the required libraries by running the following commands :
 •	pip install tweepy
 •	pip install textblob
 •	pip install matplotlib
+
 
 STEP 3: Running the application:
 1.	Open the python script ‘twitter sentiment analysis tool.py’
@@ -28,7 +32,6 @@ STEP 3: Running the application:
         consumer_secret = 'XXXX'
         access_token = 'XXXX-XXXX'
         access_token_secret = 'XXXX'
-
 3.	Now run the python script using F5 button.
 4.	A GUI will open up.
 5.	Enter the word on the basis of which the tweets will be collected.
